@@ -28,8 +28,6 @@ Mark Curphey
 
 December 2, 2001
 
-##
-
 ## Articles
 
 - [owasp.org](https://owasp.org/)
