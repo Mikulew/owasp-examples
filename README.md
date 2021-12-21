@@ -1,12 +1,13 @@
 # OWASP examples
 
 ## Table of Contents
+
 - [What is OWASP?](#what-is-owasp)
 - [What is the OWASP Top 10?](#what-is-the-owasp-top-10)
 - [Why OWASP Top 10 is important?](#why-owasp-top-10-is-important)
 - [Who created OWASP?](#who-created-owasp)
 - [When was OWASP founded?](#when-was-owasp-founded)
-- [Articles](#articles)
+- [Resources](#resources)
 
 ## What is OWASP?
 
@@ -28,7 +29,8 @@ Mark Curphey
 
 December 2, 2001
 
-## Articles
+## Resources
 
 - [owasp.org](https://owasp.org/)
 - [wikipedia](https://en.wikipedia.org/wiki/OWASP)
+- [SekurakTV: Wprowadzenie do OWASP Top Ten (edycja 2021)](https://youtu.be/qJlMH2RXAzI?t=328)
